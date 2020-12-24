@@ -1,1 +1,1 @@
-# wafer-default-detection
+# wafer defect detection using openCV in python
