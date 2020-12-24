@@ -1,0 +1,10 @@
+case 1:
+defect #1 at x=149, y=334
+defect #2 at x=82,  y=245
+defect #3 at x=97,  y=82
+
+case 2:
+defect #1 at x=344, y=265
+defect #2 at x=105, y=108
+defect #3 at x=80,  y=262
+
