@@ -4,7 +4,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">wafer defect detection using openCV in python</h3>
+  <h3 align="center">Wafer Defect Detection Using OpenCV in Python</h3>
 
 
   </p>
